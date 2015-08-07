@@ -1,4 +1,4 @@
-Java Writer@222
+Java Writer
 ===========
 
 `JavaWriter` is a utility class which aids in generating Java source files.
